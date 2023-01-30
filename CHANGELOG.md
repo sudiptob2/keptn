@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0](https://github.com/keptn/keptn/compare/1.1.0...1.2.0) (2023-01-30)
+
+
+### Features
+
+* **cli:** CLI containerization ([#9432](https://github.com/keptn/keptn/issues/9432)) ([2b9db09](https://github.com/keptn/keptn/commit/2b9db092388b4d8620deffc9e508bfe8389ac2ac))
+* remove webhook migration command from CLI ([#9463](https://github.com/keptn/keptn/issues/9463)) ([9c925d9](https://github.com/keptn/keptn/commit/9c925d94e6699c2e7fa0fd0df0d76aa84ca3ac04))
+
+
+### Bug Fixes
+
+* **installer:** Fix Nginx not handling 429 correctly ([#9475](https://github.com/keptn/keptn/issues/9475)) ([f3199c1](https://github.com/keptn/keptn/commit/f3199c1c7621937a8ba6687ca99f46ceffa0e6cf))
+* **installer:** Respect MongoDB name override correctly ([#9471](https://github.com/keptn/keptn/issues/9471)) ([050c669](https://github.com/keptn/keptn/commit/050c669e3a0b63a8c84b0552acc6dcd58c8c7370))
+
+
+### Other
+
+* **deps:** upgrade to libgit2-dev v1.5.1-r0 ([49bfbf2](https://github.com/keptn/keptn/commit/49bfbf22e84f8480c77c00fd4d38ffb96b558bd1))
+
 ## [1.1.0](https://github.com/keptn/keptn/compare/1.0.0...1.1.0) (2023-01-18)
 
 
